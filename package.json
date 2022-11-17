@@ -12,10 +12,6 @@
     },     "keywords": [],
     "author": "",
     "license": "ISC",
-    "dependencies": {
-    "@types/node": "^18.0.6",
-    "whatsapp-web.js": "^1.18.3"
-    },
     "bugs": {
         "url": "https://github.com/Dharun-Rocker/test2/issues"
     },
